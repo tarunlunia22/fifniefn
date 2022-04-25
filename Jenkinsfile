@@ -4,7 +4,7 @@ pipeline {
     stage ('sample1'){
         steps{
         echo 'Building...'
-        sh 'python part1.py'
+        sh 'python python.py'
             }
     }
     stage ('sample2'){
