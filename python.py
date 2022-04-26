@@ -1,1 +1,4 @@
-print("Hello world!")
+print("Courses")
+print("Devops")
+print("SPM")
+print("HPC")
